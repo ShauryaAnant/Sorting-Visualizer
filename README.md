@@ -1,5 +1,6 @@
-#Sorting-Visualizer
-This is a  Python project to visualize and compare different sorting algorithms using animated plots.
+# **Sorting-Visualizer**
+
+This is a Python project to visualize and compare different sorting algorithms using animated plots.
 
 **Installation:**
 ```
